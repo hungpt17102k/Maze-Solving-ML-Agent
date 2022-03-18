@@ -1,0 +1,60 @@
+Training Small Maze Agent Version 3
+
+tensorboard --logdir=results/TrainPhase3/Maze_8X8_10/Beta
+
+- Default: 
+	+ batch_size: 128
+      	+ buffer_size: 2048
+      	+ learning_rate: 0.0003
+      	+ beta: 0.005
+      	+ epsilon: 0.2
+      	+ lambd: 0.95
+      	+ num_epoch: 3
+
+
+- Beta:
+	+ Test 1: 0.01
+	+ Test 2: 0.001
+	+ Default: 0.005
+	+ Test 3: 0.0001
+
+	=> Beta corresponds to the strength of the entropy regularization, 
+	which makes the policy "more random." This ensures that agents properly explore the action space during training.
+	You can see the when the beta decrease to 0.0001 the Agent less explore the maze and keep moving on a certain distance.
+	Increase the beta, Agent will take more random action lead to explore the maze more faster.
+	But keep training for a long time the smallest beta get the most reward out of 4 tests.
+
+
+- Epsilon:
+	+ Test 1: 0.1
+	+ Default: 0.2
+	+ Test 2: 0.3	
+	
+	=> It can be seen that the reward of epsilon with a value of 0.3 
+	in the first steps is greatly subtracted from the other 2 values ​​
+	and it takes longer to reach the destination. 
+	The value 0.2 has the best training result of the 3 tests 
+	from solving the maze and getting the most points.
+
+- Lambd:
+	+ Test 1: 0.9
+	+ Default: 0.95
+	+ Test 2: 0.99
+
+	=> With a Lamda value of 0.9, the training is very poor. 
+	The reward is much less than the other 2 values ​​and the training time is also a bit more. 
+	Agent solves the maze about 1 million steps slower. 
+	Lambd values ​​from 0.95 - 0.99 give good results and Agent learns faster too.
+
+- Num_epcho:
+	+ Test 1: 1
+	+ Default: 3
+	+ Test 2: 8
+
+	=> Changing this value will make the model train fast or slow, and also greatly affect the performance quality of the model. 
+	Num_epcho has a small value (equal to 1) that makes the training unstable, 
+	even taking 2 million steps to solve the maze, much worse than the other 2 values. 
+	Increasing this value makes the agent learn faster and update more consistently, 
+	but in return the amount of training time will be extended because 
+	that is the number of passes to be made through the buffer before gradient descent step is applied.
+

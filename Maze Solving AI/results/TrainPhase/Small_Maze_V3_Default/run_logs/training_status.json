@@ -1,0 +1,65 @@
+{
+    "AgentMovementV3": {
+        "checkpoints": [
+            {
+                "steps": 2499996,
+                "file_path": "results\\Small_Maze_V3_Default_Test1--torch-device=cuda\\AgentMovementV3\\AgentMovementV3-2499996.onnx",
+                "reward": -12.736842105263158,
+                "creation_time": 1644126120.8005855,
+                "auxillary_file_paths": [
+                    "results\\Small_Maze_V3_Default_Test1--torch-device=cuda\\AgentMovementV3\\AgentMovementV3-2499996.pt"
+                ]
+            },
+            {
+                "steps": 2999981,
+                "file_path": "results\\Small_Maze_V3_Default_Test1--torch-device=cuda\\AgentMovementV3\\AgentMovementV3-2999981.onnx",
+                "reward": 59.233333333333334,
+                "creation_time": 1644126345.8589,
+                "auxillary_file_paths": [
+                    "results\\Small_Maze_V3_Default_Test1--torch-device=cuda\\AgentMovementV3\\AgentMovementV3-2999981.pt"
+                ]
+            },
+            {
+                "steps": 3499969,
+                "file_path": "results\\Small_Maze_V3_Default_Test1--torch-device=cuda\\AgentMovementV3\\AgentMovementV3-3499969.onnx",
+                "reward": 18.28048780487805,
+                "creation_time": 1644126568.2507079,
+                "auxillary_file_paths": [
+                    "results\\Small_Maze_V3_Default_Test1--torch-device=cuda\\AgentMovementV3\\AgentMovementV3-3499969.pt"
+                ]
+            },
+            {
+                "steps": 3999954,
+                "file_path": "results\\Small_Maze_V3_Default_Test1--torch-device=cuda\\AgentMovementV3\\AgentMovementV3-3999954.onnx",
+                "reward": 101.5,
+                "creation_time": 1644126806.0861409,
+                "auxillary_file_paths": [
+                    "results\\Small_Maze_V3_Default_Test1--torch-device=cuda\\AgentMovementV3\\AgentMovementV3-3999954.pt"
+                ]
+            },
+            {
+                "steps": 4000018,
+                "file_path": "results\\Small_Maze_V3_Default_Test1--torch-device=cuda\\AgentMovementV3\\AgentMovementV3-4000018.onnx",
+                "reward": 101.5,
+                "creation_time": 1644126806.1301808,
+                "auxillary_file_paths": [
+                    "results\\Small_Maze_V3_Default_Test1--torch-device=cuda\\AgentMovementV3\\AgentMovementV3-4000018.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000018,
+            "file_path": "results\\Small_Maze_V3_Default_Test1--torch-device=cuda\\AgentMovementV3.onnx",
+            "reward": 101.5,
+            "creation_time": 1644126806.1301808,
+            "auxillary_file_paths": [
+                "results\\Small_Maze_V3_Default_Test1--torch-device=cuda\\AgentMovementV3\\AgentMovementV3-4000018.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2+cu102"
+    }
+}

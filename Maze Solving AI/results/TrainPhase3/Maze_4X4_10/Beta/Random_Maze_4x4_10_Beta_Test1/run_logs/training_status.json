@@ -1,0 +1,65 @@
+{
+    "AgentMovementV3": {
+        "checkpoints": [
+            {
+                "steps": 3499975,
+                "file_path": "results\\Random_Maze_4x4_10_PPO_Test1\\AgentMovementV3\\AgentMovementV3-3499975.onnx",
+                "reward": 104.25,
+                "creation_time": 1646157320.7913077,
+                "auxillary_file_paths": [
+                    "results\\Random_Maze_4x4_10_PPO_Test1\\AgentMovementV3\\AgentMovementV3-3499975.pt"
+                ]
+            },
+            {
+                "steps": 3999997,
+                "file_path": "results\\Random_Maze_4x4_10_PPO_Test1\\AgentMovementV3\\AgentMovementV3-3999997.onnx",
+                "reward": 93.60526315789474,
+                "creation_time": 1646157671.5288768,
+                "auxillary_file_paths": [
+                    "results\\Random_Maze_4x4_10_PPO_Test1\\AgentMovementV3\\AgentMovementV3-3999997.pt"
+                ]
+            },
+            {
+                "steps": 4499941,
+                "file_path": "results\\Random_Maze_4x4_10_PPO_Test1\\AgentMovementV3\\AgentMovementV3-4499941.onnx",
+                "reward": 93.11538461538461,
+                "creation_time": 1646158023.0750735,
+                "auxillary_file_paths": [
+                    "results\\Random_Maze_4x4_10_PPO_Test1\\AgentMovementV3\\AgentMovementV3-4499941.pt"
+                ]
+            },
+            {
+                "steps": 4999975,
+                "file_path": "results\\Random_Maze_4x4_10_PPO_Test1\\AgentMovementV3\\AgentMovementV3-4999975.onnx",
+                "reward": 112.52631578947368,
+                "creation_time": 1646158374.3717108,
+                "auxillary_file_paths": [
+                    "results\\Random_Maze_4x4_10_PPO_Test1\\AgentMovementV3\\AgentMovementV3-4999975.pt"
+                ]
+            },
+            {
+                "steps": 5000020,
+                "file_path": "results\\Random_Maze_4x4_10_PPO_Test1\\AgentMovementV3\\AgentMovementV3-5000020.onnx",
+                "reward": 112.325,
+                "creation_time": 1646158374.4167516,
+                "auxillary_file_paths": [
+                    "results\\Random_Maze_4x4_10_PPO_Test1\\AgentMovementV3\\AgentMovementV3-5000020.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000020,
+            "file_path": "results\\Random_Maze_4x4_10_PPO_Test1\\AgentMovementV3.onnx",
+            "reward": 112.325,
+            "creation_time": 1646158374.4167516,
+            "auxillary_file_paths": [
+                "results\\Random_Maze_4x4_10_PPO_Test1\\AgentMovementV3\\AgentMovementV3-5000020.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2+cu102"
+    }
+}

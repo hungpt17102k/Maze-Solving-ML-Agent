@@ -1,0 +1,65 @@
+{
+    "AgentMovementV3": {
+        "checkpoints": [
+            {
+                "steps": 3499978,
+                "file_path": "results\\Random_Maze_8x8_10_NumEpcho_Test1\\AgentMovementV3\\AgentMovementV3-3499978.onnx",
+                "reward": null,
+                "creation_time": 1646531213.5212865,
+                "auxillary_file_paths": [
+                    "results\\Random_Maze_8x8_10_NumEpcho_Test1\\AgentMovementV3\\AgentMovementV3-3499978.pt"
+                ]
+            },
+            {
+                "steps": 3999965,
+                "file_path": "results\\Random_Maze_8x8_10_NumEpcho_Test1\\AgentMovementV3\\AgentMovementV3-3999965.onnx",
+                "reward": null,
+                "creation_time": 1646531463.17656,
+                "auxillary_file_paths": [
+                    "results\\Random_Maze_8x8_10_NumEpcho_Test1\\AgentMovementV3\\AgentMovementV3-3999965.pt"
+                ]
+            },
+            {
+                "steps": 4499976,
+                "file_path": "results\\Random_Maze_8x8_10_NumEpcho_Test1\\AgentMovementV3\\AgentMovementV3-4499976.onnx",
+                "reward": -3041.5,
+                "creation_time": 1646531713.6638045,
+                "auxillary_file_paths": [
+                    "results\\Random_Maze_8x8_10_NumEpcho_Test1\\AgentMovementV3\\AgentMovementV3-4499976.pt"
+                ]
+            },
+            {
+                "steps": 4999947,
+                "file_path": "results\\Random_Maze_8x8_10_NumEpcho_Test1\\AgentMovementV3\\AgentMovementV3-4999947.onnx",
+                "reward": null,
+                "creation_time": 1646531961.8866222,
+                "auxillary_file_paths": [
+                    "results\\Random_Maze_8x8_10_NumEpcho_Test1\\AgentMovementV3\\AgentMovementV3-4999947.pt"
+                ]
+            },
+            {
+                "steps": 5000011,
+                "file_path": "results\\Random_Maze_8x8_10_NumEpcho_Test1\\AgentMovementV3\\AgentMovementV3-5000011.onnx",
+                "reward": null,
+                "creation_time": 1646531961.9296613,
+                "auxillary_file_paths": [
+                    "results\\Random_Maze_8x8_10_NumEpcho_Test1\\AgentMovementV3\\AgentMovementV3-5000011.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000011,
+            "file_path": "results\\Random_Maze_8x8_10_NumEpcho_Test1\\AgentMovementV3.onnx",
+            "reward": null,
+            "creation_time": 1646531961.9296613,
+            "auxillary_file_paths": [
+                "results\\Random_Maze_8x8_10_NumEpcho_Test1\\AgentMovementV3\\AgentMovementV3-5000011.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2+cu102"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "AgentMovementV3": {
+        "checkpoints": [
+            {
+                "steps": 3499975,
+                "file_path": "results\\Small_Maze_V3_MoveToGoal_PPO_Beta_Test1\\AgentMovementV3\\AgentMovementV3-3499975.onnx",
+                "reward": 42.75,
+                "creation_time": 1644513225.5261877,
+                "auxillary_file_paths": [
+                    "results\\Small_Maze_V3_MoveToGoal_PPO_Beta_Test1\\AgentMovementV3\\AgentMovementV3-3499975.pt"
+                ]
+            },
+            {
+                "steps": 3999984,
+                "file_path": "results\\Small_Maze_V3_MoveToGoal_PPO_Beta_Test1\\AgentMovementV3\\AgentMovementV3-3999984.onnx",
+                "reward": 121.25,
+                "creation_time": 1644513486.931861,
+                "auxillary_file_paths": [
+                    "results\\Small_Maze_V3_MoveToGoal_PPO_Beta_Test1\\AgentMovementV3\\AgentMovementV3-3999984.pt"
+                ]
+            },
+            {
+                "steps": 4499997,
+                "file_path": "results\\Small_Maze_V3_MoveToGoal_PPO_Beta_Test1\\AgentMovementV3\\AgentMovementV3-4499997.onnx",
+                "reward": null,
+                "creation_time": 1644513755.710934,
+                "auxillary_file_paths": [
+                    "results\\Small_Maze_V3_MoveToGoal_PPO_Beta_Test1\\AgentMovementV3\\AgentMovementV3-4499997.pt"
+                ]
+            },
+            {
+                "steps": 4999941,
+                "file_path": "results\\Small_Maze_V3_MoveToGoal_PPO_Beta_Test1\\AgentMovementV3\\AgentMovementV3-4999941.onnx",
+                "reward": 199.75,
+                "creation_time": 1644514415.292739,
+                "auxillary_file_paths": [
+                    "results\\Small_Maze_V3_MoveToGoal_PPO_Beta_Test1\\AgentMovementV3\\AgentMovementV3-4999941.pt"
+                ]
+            },
+            {
+                "steps": 5000005,
+                "file_path": "results\\Small_Maze_V3_MoveToGoal_PPO_Beta_Test1\\AgentMovementV3\\AgentMovementV3-5000005.onnx",
+                "reward": 199.75,
+                "creation_time": 1644514415.3447855,
+                "auxillary_file_paths": [
+                    "results\\Small_Maze_V3_MoveToGoal_PPO_Beta_Test1\\AgentMovementV3\\AgentMovementV3-5000005.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000005,
+            "file_path": "results\\Small_Maze_V3_MoveToGoal_PPO_Beta_Test1\\AgentMovementV3.onnx",
+            "reward": 199.75,
+            "creation_time": 1644514415.3447855,
+            "auxillary_file_paths": [
+                "results\\Small_Maze_V3_MoveToGoal_PPO_Beta_Test1\\AgentMovementV3\\AgentMovementV3-5000005.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.2+cu102"
+    }
+}

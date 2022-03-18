@@ -1,0 +1,22 @@
+Small Maze
+- Trong agent
+	+ Max_Step: 4000
+
+- Trong file config
+	+ Max_Step: 10000000 
+	=> cho đỡ bị overfit
+
+
+Large Maze
+- Trong agent
+	+ Max_Step: 4000
+
+- Trong file config
+	+ Max_Step: 30000000
+
+
+Lý do cả 2 maze có max_step của agent giống nhau là t muốn để cố định reward của mỗi ep và có thể đánh giá rõ hơn việc học của agent khi sang 1 maze khác
+
+
+
+Viết ra tên file ví du: SmallV3_Maze_PPO_Test1
