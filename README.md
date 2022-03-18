@@ -1,5 +1,5 @@
 
-![Logo](Images/Screenshot 2022-02-13 212058.png)
+![logo](Images/Screenshot 2022-02-13 212058.png)
 
 
 # Maze Solving ML Agent
