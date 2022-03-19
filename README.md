@@ -24,7 +24,7 @@
 <br />
 <div align="center">
  
-![logo](images/duck-dancing.gif)  
+![logo](Images/duck-dancing.gif)  
 **Simple Maze Solving.**  
 
 [![Generic badge](https://img.shields.io/badge/License-MIT-<COLOR>.svg?style=for-the-badge)](https://github.com/hungpt17102k/Maze-Solving-ML-Agent/blob/main/LICENSE) 
@@ -216,7 +216,7 @@ tensordboard --log/dir=results
 
 </td><td>
 
-<img src="Images/Epsilon-chart.png" width="50%" />
+<img src="Images/epsilon-chart.png" width="50%" />
 
 </td></tr> </table>
  
@@ -236,7 +236,7 @@ tensordboard --log/dir=results
 
 </td><td>
 
-<img src="Images/Lambd-chart.png" width="50%" />
+<img src="Images/lambd-chart.png" width="50%" />
 
 </td></tr> </table>
 
@@ -256,7 +256,7 @@ tensordboard --log/dir=results
 
 </td><td>
 
-<img src="Images/Num-epcho-chart.png" width="50%" />
+<img src="Images/num-epcho-chart.png" width="50%" />
 
 </td></tr> </table>
  
