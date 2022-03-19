@@ -85,8 +85,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [PyTorch](https://angular.io/)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -279,14 +277,12 @@ tensordboard --log/dir=results
 * You want more detail and result, you can see the [theis](Documentation)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -296,8 +292,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Phan Thanh Hùng - hungpt17102k@gmail.com
 
 Project Link: [https://github.com/hungpt17102k/Maze-Solving-ML-Agent](https://github.com/hungpt17102k/Maze-Solving-ML-Agent)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
