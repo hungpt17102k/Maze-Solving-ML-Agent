@@ -287,11 +287,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Authors
 
-Phan Thanh Hùng - hungpt17102k@gmail.com
+Phan Thanh Hùng - [GitHub](https://github.com/hungpt17102k) - hungpt17102k@gmail.com
 
-Project Link: [https://github.com/hungpt17102k/Maze-Solving-ML-Agent](https://github.com/hungpt17102k/Maze-Solving-ML-Agent)
+Mạc Duy Đan Trường - [GitHub](https://github.com/TruongJonathan) - Truong.M.Jonathan@gmail.com
+
+Phan Duy Hùng - [Google Schoolar](https://scholar.google.com/citations?user=V3paQH8AAAAJ&hl=vi&oi=ao) - hungpd2@fe.edu.vn
 
 
 
