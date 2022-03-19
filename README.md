@@ -194,7 +194,7 @@ tensordboard --log/dir=results
 
 </td><td>
 
-<img src="Images/beta-chart.png" width="50%" />
+<img src="Images/beta-chart.png"/>
 
 </td></tr> </table>
  
@@ -214,7 +214,7 @@ tensordboard --log/dir=results
 
 </td><td>
 
-<img src="Images/epsilon-chart.png" width="50%" />
+<img src="Images/epsilon-chart.png"/>
 
 </td></tr> </table>
  
@@ -234,7 +234,7 @@ tensordboard --log/dir=results
 
 </td><td>
 
-<img src="Images/lambd-chart.png" width="50%" />
+<img src="Images/lambd-chart.png"/>
 
 </td></tr> </table>
 
@@ -254,7 +254,7 @@ tensordboard --log/dir=results
 
 </td><td>
 
-<img src="Images/num-epcho-chart.png" width="50%" />
+<img src="Images/num-epcho-chart.png" />
 
 </td></tr> </table>
  
