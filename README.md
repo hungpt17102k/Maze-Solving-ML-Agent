@@ -258,12 +258,12 @@ tensordboard --log/dir=results
 
 </td></tr> </table>
  
-
+</br>
 <div align="center">
  
- ![](images/full_video.gif)
+ ![](Images/Training_GIF/8x8_Random_Maze.gif)
  
- [Demo](https://www.youtube.com/watch?v=lx4yA1LEi9c) testing in Unity
+ [Demo](Images/Training_GIF) training in Unity
  
  </div>
 
@@ -274,7 +274,7 @@ tensordboard --log/dir=results
 ## Documentation
 
 * You can read the [paper](Documentation) for the reseach.
-* You want more detail and result, you can see the [theis](Documentation)
+* You want more detail and result, you can see the [thesis](Documentation)
 
 
 
