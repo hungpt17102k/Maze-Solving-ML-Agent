@@ -273,8 +273,8 @@ tensordboard --log/dir=results
 
 ## Documentation
 
-* You can read the [paper](Documentation/Paper.docx) for the reseach.
-* You want more detail and result, you can see the [thesis](Documentation/Thesis.docx)
+* You can read the [paper](Documentation/Paper.pdf) for the reseach.
+* You want more detail and result, you can see the [thesis](Documentation/Thesis.pdf)
 
 
 
