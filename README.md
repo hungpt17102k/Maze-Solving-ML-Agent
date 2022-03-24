@@ -273,8 +273,8 @@ tensordboard --log/dir=results
 
 ## Documentation
 
-* You can read the [paper](Documentation) for the reseach.
-* You want more detail and result, you can see the [thesis](Documentation)
+* You can read the [paper](Documentation/Paper.docx) for the reseach.
+* You want more detail and result, you can see the [thesis](Documentation/Thesis.docx)
 
 
 
@@ -282,7 +282,7 @@ tensordboard --log/dir=results
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See [LICENSE.txt](LICENSE) for more information.
 
 
 
