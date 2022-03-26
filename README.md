@@ -24,7 +24,7 @@
 <br />
 <div align="center">
  
-![logo](Images/duck-dancing.gif)  
+![logo](Images/logo-maze.png)  
 **Simple Maze Solving.**  
 
 [![Generic badge](https://img.shields.io/badge/License-MIT-<COLOR>.svg?style=for-the-badge)](https://github.com/hungpt17102k/Maze-Solving-ML-Agent/blob/main/LICENSE) 
